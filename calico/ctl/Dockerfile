@@ -1,2 +1,2 @@
-FROM quay.io/tigera/operator:v1.30.7
+FROM docker.io/calico/ctl:v3.26.3
 LABEL MAINTAINER=master@Harrison BUILDTYPE=Aliyun
